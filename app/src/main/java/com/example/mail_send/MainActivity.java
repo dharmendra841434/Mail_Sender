@@ -63,6 +63,13 @@ public class MainActivity extends AppCompatActivity implements View.OnFocusChang
                                 mess.setEnabled(true);
 
                                 sendemail();
+                                 
+                                n.SetText("");
+                                m.SetText("");
+                                e.SetText("");
+                                mess.SetText("");
+                                
+
                             }
                             else
                             {
