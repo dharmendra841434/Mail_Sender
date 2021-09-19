@@ -1,5 +1,5 @@
 # Mail_Sender
 Using This App Mailed Some Infromation
 
-<h3>Volly Library<h3>
-<img src="screenshots/registrationUI.png" width="300" height="550">
+<h3>Java Mail API<h3>
+<img src="app/release/MailSender.png" width="300" height="550">
